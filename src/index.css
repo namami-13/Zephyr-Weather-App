@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes gradientFlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* 🌞 Light Mode Background */
+.bg-light-animated-gradient {
+  background: linear-gradient(120deg, #ff9a9e, #fad0c4, #a18cd1, #fbc2eb, #8ec5fc);
+  background-size: 300% 300%;
+  animation: gradientFlow 10s ease infinite;
+}
+
+/* 🌙 Dark Mode Background */
+.bg-dark-animated-gradient {
+  background: linear-gradient(120deg, #0f2027, #203a43, #2c5364, #000428, #004e92);
+  background-size: 300% 300%;
+  animation: gradientFlow 12s ease infinite;
+}
+
+/* 💎 Glassmorphism Base */
+.bg-glass {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+  transition: all 0.4s ease;
+}
