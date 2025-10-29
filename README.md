@@ -1,20 +1,39 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌤️ Zephyr — Your Personal Weather Companion  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zephyr is a sleek and responsive **React + Vite** weather application that provides real-time weather updates with style.  
+Built with modern UI, glassy effects, and a splash of color — Zephyr makes checking the weather actually *fun*. ☀️🌧️🌈  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
 
-## React Compiler
+- 🌍 **Search any city** and get instant weather details  
+- 🌡️ Displays **temperature, humidity, wind speed, and conditions**  
+- 🎨 **Glassy UI** with smooth animations  
+- 🌗 **Dark mode toggle** for better night-time vibes  
+- 📱 **Fully responsive** — works beautifully on mobile and desktop  
+- ⚡ Built using **React + Vite** for blazing-fast performance  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Zephyr-Weather-App
->>>>>>> a20fdfcef4fbc3a6cd6803e6483de485358bcd9c
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Icons:** Lucide React  
+- **API:** Open-Meteo API  
+- **Styling:** Glassmorphism with CSS animations  
+
+---
+
+## 📸 Preview  
+
+> *(Add your app screenshot here once hosted — for example)*  
+> ![Zephyr Screenshot](https://your-image-link-here.com)
+
+---
+
+## 🧭 How to Run Locally  
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/zephyr.git
