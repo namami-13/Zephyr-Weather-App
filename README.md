@@ -26,9 +26,9 @@ Built with modern UI, glassy effects, and a splash of color — Zephyr makes che
 ---
 
 ## 📸 Preview    
-> Sleek, glassy, and minimal weather dashboard �
+> Sleek, glassy, and minimal weather dashboard 🌈
 > ![Zephyr Screenshot](zephyrlight.png)
-> ![Zephyr Screenshot](zephyrdark.png)�
+> ![Zephyr Screenshot](zephyrdark.png)
 
 ---
 
