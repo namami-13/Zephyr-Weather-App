@@ -58,16 +58,16 @@ function WeatherCard() {
       </div>
 
       {/* Title */}
-      <h1 className="text-4xl sm:text-5xl md:text-6xl mb-8 font-bold text-white tracking-wider drop-shadow-lg">
+      <h1 className="text-4xl sm:text-5xl md:text-6xl mb-6 font-bold text-white tracking-wider drop-shadow-lg">
         Zephyr
       </h1>
-      <p className="text-white text-xl py-4 font-serif drop-shadow-lg">Real-time weather, powered by precision</p>
+      <p className="text-white text-xl py-6 font-serif drop-shadow-lg">Your Personal Weather Companion 🌥️</p>
 
       {/* Search bar */}
       <div className="flex flex-col sm:flex-row items-center gap-3 w-full max-w-xl">
         <input
           type="text"
-          placeholder="Enter city name..."
+          placeholder="Enter city name... "
           value={city}
           onChange={(e) => setCity(e.target.value)}
           className="border border-white/20 p-3 rounded-xl w-full text-center text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-[#6a85f1] transition-all duration-300 bg-glass shadow-xl"
