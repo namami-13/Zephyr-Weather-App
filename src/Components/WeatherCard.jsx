@@ -61,7 +61,9 @@ function WeatherCard() {
       <h1 className="text-4xl sm:text-5xl md:text-6xl mb-6 font-bold text-white tracking-wider drop-shadow-lg">
         Zephyr
       </h1>
-      <p className="text-white text-xl py-6 font-serif drop-shadow-lg">Your Personal Weather Companion 🌥️</p>
+      <p className="text-white text-lg sm:text-xl md:text-2xl lg:text-3xl py-4 sm:py-6 font-serif text-center px-3 drop-shadow-lg">
+  Your Personal Weather Companion 🌥️
+</p>
 
       {/* Search bar */}
       <div className="flex flex-col sm:flex-row items-center gap-3 w-full max-w-xl">
