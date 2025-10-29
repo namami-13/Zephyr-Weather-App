@@ -25,10 +25,8 @@ Built with modern UI, glassy effects, and a splash of color — Zephyr makes che
 
 ---
 
-## 📸 Preview  
-
-> *(Add your app screenshot here once hosted — for example)*  
-> ![Zephyr Screenshot](https://your-image-link-here.com)
+## 📸 Preview    
+> ![Zephyr Screenshot]([https://your-image-link-here.com](https://github.com/namami-13/Zephyr-Weather-App/blob/master/zephyrdark.png?raw=true))
 
 ---
 
